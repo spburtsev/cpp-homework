@@ -7,6 +7,7 @@ struct Shape {
 };
 struct Rectangle : Shape {};
 struct Triangle : Shape {};
+struct Hexagon : Shape {};
 
 #include "Multimethod.hpp"
 
